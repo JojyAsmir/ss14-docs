@@ -1,0 +1,38 @@
+[color=#52B4E9]◥[bold]N[/bold]◣ [bold]Jilly's Chemical Cheat Sheet - The Advanced - Brutes[/bold][/color]
+[color=#52B4E9]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=1]--Prerequisites--[/head]
+[bold] Bicardine [/bold] - Covered in The Essentials
+
+[head=2]Benzene[/head]
+[bullet/] 1 carbon
+[bullet/] 1 hydrogen
+[bullet/] Mix in a beaker, and heat on a hot plate to 310k
+
+[head=2]Hydroxide[/head]
+[bullet/] 1 hydrogen
+[bullet/] 1 oxygen
+[bullet/] Mix in a beaker, and heat on a hot plate to 310k
+
+[head=1]--Advanced Brutes--[/head]
+
+[head=2]Bruizine - Blunt - 10.5u OD[/head]
+[italic]Specialized for treatment of blunt trauma.
+[bold]Do not mix with Bica/Punc/Lace![/bold][/italic]
+[bullet/] 1 bicardine
+[bullet/] 1 lithium
+[bullet/] 1 sugar
+
+[head=2]Bruizine - Slash - 12u OD[/head]
+[italic]Specialized for treatment of deep lacerations.
+[bold]Do not mix with Bica/Punc/Bruiz![/bold][/italic]
+[bullet/] 1 bicardine
+[bullet/] 1 lithium
+[bullet/] 1 sugar
+
+[head=2]Bruizine - Pierce - 11u OD[/head]
+[italic]Specialized for treatment of severe stab wounds.
+[bold]Do not mix with Bica/Bruiz/Lace![/bold][/italic]
+[bullet/] 1 bicardine
+[bullet/] 1 lithium
+[bullet/] 1 sugar
