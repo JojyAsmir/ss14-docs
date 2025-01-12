@@ -1,0 +1,12 @@
+[color=#52B4E9]◥[bold]N[/bold]◣ [bold]Jilly's Chemical Cheat Sheet - Page Zero - Medical Tips[/bold][/color]
+[color=#52B4E9]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=3]Introductions[/head]
+[italic]For those who are completely new to the medical field, this page will hopefully be helpful! It will include several tips, suggestions, and do-nots of the field![/italic]
+
+[head=3]Tip 1 - Beds[/head]
+When treating someone's injuries, the location of the operation is important, and can make the difference between their survival or death.
+
+[bullet/]If a patient is alive, they should be placed on a Medical Bed. The bed improves the body's natural ability to heal, taking some of the pressure off of you to act quickly.
+[italic]You can construct one with two pieces of plasteel and two pieces of durathread, if you do not have one.[/italic]
+
+[bullet/]If a patient is deceased, they should be placed on a Stasis Bed, if at all possible. These will prevent their body from decaying. [bold]Do not place living patients on stasis beds! They will suffocate![/bold]
