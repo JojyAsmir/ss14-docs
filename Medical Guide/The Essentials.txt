@@ -8,6 +8,23 @@
 [bullet/] 1 carbon
 [bullet/] 1 sugar
 
+[head=2]Kelotane[/head]
+[italic]Base ingredient in chems that treat burns.
+[bold]Not medicine! Do not use on patients![/bold][/italic]
+[bullet/] 1 sillicon
+[bullet/] 1 carbon
+
+[head=2]Dexalin[/head]
+[italic]Once again, a base ingredient. While it can be used to treat airloss on it's own, it is recommended to make it's stronger variant, Dexalin+.[/italic]
+[bullet/] 1 plasma (not consumed!)
+[bullet/] 2 oxygen
+
+[head=2]Table Salt[/head]
+[italic]Say it with me now! Base ingredient in the production of more advanced chems.
+[bullet/] 1 chlorine
+[bullet/] 1 sodium
+[bullet/] Mix together in a beaker, then heat to 370k on a hot plate.
+
 [head=2]Bicardine - Brute - 15u OD[/head]
 [italic]Basic medicine for physical trauma, such as bruises, cuts, and stab wounds. A prerequisite for more powerful, specialized chems.
 [bold]Do not mix with Bruiz/Lace/Punc![/bold][/italic]
@@ -20,14 +37,75 @@
 [bullet/] 1 potassium
 [bullet/] 1 sillicon
 
+[head=2]Dermaline - Burns - 10u OD[/head]
+[italic]Basic medicine that will heal burns related to both extreme heat and extreme cold. Will not treat caustic chemical burns, however.[/italic]
+[bullet/] 1 kelotane
+[bullet/] 1 oxygen
+[bullet/] 1 phosphorous
+
+[head=2]Dexalin+ - Airloss - 25u OD[/head]
+Advanced airloss treatment.
+[bullet/] 1 dexalin
+[bullet/] 1 carbon
+[bullet/] 1 iron
+
+[head=2]Saline - Bloodloss[/head]
+[italic]Basic but highly effective blood infusion. 5u = 20% blood.
+[bullet/] 4 water
+[bullet/] 1 table salt
+
+[color=#52B4E9]◥[bold]N[/bold]◣ [bold]Jilly's Chemical Cheat Sheet - The Essentials[/bold][/color]
+[color=#52B4E9]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Inaprovaline - Crit[/head]
+[italic]Base ingredient in other chems. Make this first! Can also be used to aid patients suffering asphyxiation as a result of critical injury.
+[bold]Do not mix with Dylovene![/bold][/italic]
+[bullet/] 1 oxygen
+[bullet/] 1 carbon
+[bullet/] 1 sugar
+
 [head=2]Kelotane[/head]
 [italic]Base ingredient in chems that treat burns.
 [bold]Not medicine! Do not use on patients![/bold][/italic]
 [bullet/] 1 sillicon
 [bullet/] 1 carbon
 
+[head=2]Dexalin[/head]
+[italic]Once again, a base ingredient. While it can be used to treat airloss on it's own, it is recommended to make it's stronger variant, Dexalin+.[/italic]
+[bullet/] 1 plasma (not consumed!)
+[bullet/] 2 oxygen
+
+[head=2]Table Salt[/head]
+[italic]Say it with me now! Base ingredient in the production of more advanced chems.
+[bullet/] 1 chlorine
+[bullet/] 1 sodium
+[bullet/] Mix together in a beaker, then heat to 370k on a hot plate.
+
+[head=2]Bicardine - Brute - 15u OD[/head]
+[italic]Basic medicine for physical trauma, such as bruises, cuts, and stab wounds. A prerequisite for more powerful, specialized chems.
+[bold]Do not mix with Bruiz/Lace/Punc![/bold][/italic]
+[bullet/] 1 inaprovaline
+[bullet/] 1 carbon
+
+[head=2]Dylovene  - Poison - 20u OD[/head]
+[italic]Basic but effective anti-poison medication. A prerequisite for more advanced chems.
+[bullet/] 1 nitrogen
+[bullet/] 1 potassium
+[bullet/] 1 sillicon
+
 [head=2]Dermaline - Burns - 10u OD[/head]
 [italic]Basic medicine that will heal burns related to both extreme heat and extreme cold. Will not treat caustic chemical burns, however.[/italic]
 [bullet/] 1 kelotane
 [bullet/] 1 oxygen
 [bullet/] 1 phosphorous
+
+[head=2]Dexalin+ - Airloss - 25u OD[/head]
+Advanced airloss treatment.
+[bullet/] 1 dexalin
+[bullet/] 1 carbon
+[bullet/] 1 iron
+
+[head=2]Saline - Bloodloss[/head]
+[italic]Basic but highly effective blood infusion. 5u = 20% blood.
+[bullet/] 4 water
+[bullet/] 1 table salt
